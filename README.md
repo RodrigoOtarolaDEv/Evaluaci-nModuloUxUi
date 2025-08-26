@@ -39,7 +39,7 @@ Claude AI es es un modelo de lenguaje natural(LLM) de última generación diseñ
 - **Correspondencia con el mundo real:** Es lenguaje natural, similar al humano, pero en momentos es muy extenso y técnico, dependera del contexto de la pregunta.  
 - **Control y libertad del usuario:** Posee opción de detener la respuesta y de editar las preguntas.  
 - **Consistencia y estándares:** Interfas e iconografía clara.  
-- **Prevención de errores:** Puede solicitas imagen en caso de señalarla en la pregunta, pero noo advierte de manera clara cuando la información puede ser no confiable.  
+- **Prevención de errores:** Puede solicitas imagen en caso de señalarla en la pregunta, pero no advierte de manera clara cuando la información puede ser no confiable.  
 - **Reconocer mejor que recordar:** Permite ocultar las conversaciones anteriores y mantiene visualizador de respuestas para usuarios técnicos como programadores bastante legible.  
 - **Flexibilidad y eficiencia:** Usuarios avanzados busquedas más complejas, pero usuarios normales puede obtener buenos resultados con técnicas no tan avanzadas.  
 - **Estética y minimalismo:** Intefaz buena, respuestas puedes ser extensas y en algunos casos visualizar un editar lateral.  
@@ -65,7 +65,7 @@ Claude AI es es un modelo de lenguaje natural(LLM) de última generación diseñ
 
 ### Problema 3 → Falta de control sobre respuestas
 - **Mejora:** Panel de configuración pre-respuesta con controles para longitud, tecnicismo y formato.  
-- **Beneficio:** Respuestas personalizadas que se adaptan al contexto y nivel de expertise del usuario.
+- **Beneficio:** Respuestas personalizadas que se adaptan al contexto y nivel de expertiz del usuario.
 
 ---
 
