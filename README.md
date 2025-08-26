@@ -1,6 +1,6 @@
 # Trabajo Práctico Final  
-**Usabilidad y Diseño Centrado en el Usuario para Sistemas de IA**  
-**Estudiante:** Rodrigo Otárola Gutiérrez
+**Usabilidad y Diseño Centrado en el Usuario para Sistemas de IA**
+**Estudiante:** Rodrigo Otárola Gutiérrez 
 **Sistema elegido:** Claude AI
 
 ---
